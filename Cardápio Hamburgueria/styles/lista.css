@@ -50,3 +50,10 @@
 .bebida{
     font-size: 18px;
 }
+
+.cardapio__vejamais{
+    color: var(--cor-descricao);
+    font-size: 19px;
+    display: flex;
+    justify-content: end;
+}
